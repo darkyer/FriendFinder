@@ -1,0 +1,36 @@
+body{
+    background-image: url("../images/background.jpg");
+}
+
+.title{
+    width:50%;
+}
+
+.titleSmall{
+    width:20%;
+}
+
+.jumbotron{
+    background-color: #0000004b;
+    color:white;
+}
+
+.container{
+    color:white;
+}
+
+.chosen-container{
+    color: black !important;
+}
+
+.fas{
+    color:red;
+}
+
+a:visited{
+    color: darkblue;
+}
+
+a{
+    color: white;
+}
