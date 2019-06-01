@@ -7,7 +7,7 @@ body{
 }
 
 .titleSmall{
-    width:20%;
+    max-height: 100px;
 }
 
 .jumbotron{
