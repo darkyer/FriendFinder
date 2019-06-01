@@ -8,12 +8,10 @@ Friend Finder is a Node - Express app that gives you the best match from a prebu
 
 ## How can I use it?
 
-You can use the following commands:
+There are two ways to test this:
 
-* concert-this [artist/band name here] - Gives you information about concerts
-* spotify-this-song [song name] - Gives you information about song name
-* movie-this [movie name] - Gives you information about that movie
-* do-what-it-says - Reads from random.txt and gets the command and the value and executes the command
+* The easy way: just go to the heroku app page and test it [Heroku project](http://friend-finder-ernesto-solares.herokuapp.com/)
+* The not that easy way: you need to download the repository and install the necessary dependencies with the command “npm install” and just run it locally 
 
 ## Built With
 
